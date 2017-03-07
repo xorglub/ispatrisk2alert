@@ -1,7 +1,7 @@
 # ispatrisk2alert
 
 Get atrisk status through IBM Spectrum Protect Operations Center and 
-send email/slack/... message to alert
+send email/slack/... message to alert administrators.
 
 Based on code from:
 
